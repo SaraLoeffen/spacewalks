@@ -190,3 +190,5 @@ if __name__ == "__main__":
     duration_by_astronaut_output_file = 'results/duration_by_astronaut.csv'
 
     main(input_file, output_file, duration_by_astronaut_output_file, graph_file)
+
+# variables renamed for clarity
