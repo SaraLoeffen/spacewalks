@@ -3,3 +3,4 @@ venv_spacewalks/
 .coverage
 __pycache__/
 .vscode/
+tests/unit_test_demo.py
